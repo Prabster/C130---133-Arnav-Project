@@ -1,0 +1,22 @@
+#grad1 {
+    background-image: conic-gradient(rgb(230, 150, 225), rgb(80, 185, 40), rgb(65, 100, 230), rgb(50, 180, 200), rgb(230, 150, 225));
+}
+
+#myH1 {
+    font-size: 40px;
+    width: 50%;
+    margin-top: 10px;
+}
+
+#myBTN {
+    font-size: 25px;
+    border-radius: 30px;
+    width: 35%;
+}
+
+canvas {
+    border: 5px dotted black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px gray;
+}
+
